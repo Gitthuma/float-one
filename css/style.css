@@ -22,7 +22,11 @@ body {
 }
 
 .float1 {
+  float: left;
+  margin-right: 10px;
 }
 
 .float2 {
+  float: right;
+  margin-left: 10px;
 }
